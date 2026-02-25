@@ -90,14 +90,12 @@ Most of my work lives in private repos (4 interconnected services), but I share 
 
 I spent 4 years as a mechanical engineer designing hard drives at Seagate, then moved into avionics integration for airborne camera systems. Somewhere along the way I caught the trading bug, and that led me down the rabbit hole of building the infrastructure to do it right — which turned out to be a crash course in distributed systems, time-series databases, full-stack development, and ML pipelines.
 
-The mechanical engineering background isn't wasted — systems thinking, thermal management, and "measure twice, cut once" translate surprisingly well to infrastructure design.
-
 ---
 
 ### 📬 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) <!-- Update this -->
-- 📧 garrett@youremail.com <!-- Update this -->
+- 💼 [LinkedIn](https://linkedin.com/in/garrettsmith33) 
+- 📧 gm.smith1096@gmail.com 
 
 ---
 
