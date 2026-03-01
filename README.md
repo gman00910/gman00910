@@ -16,16 +16,25 @@ This turned out to be a multi-year crash course in distributed systems, time-ser
 | **NUC-Visualizer** | Analytics dashboard + research | FastAPI (BFF), React + TypeScript, Vite, Recharts, Lightweight Charts |
 | **NUC-Trader** | Strategy execution engine | Python, event-driven architecture |
 | **Jetson** | ML inference + LLM serving | Ollama, FinBERT, CUDA |
-| **Pi 4B** | Grafana | Network monitoring | Lightweight health polling |
+| **Pi 4B** | Network monitoring | Grafana, lightweight health polling |
 
-The dashboard alone has 35+ macro endpoints, earnings scoring engines, real-time breadth analysis, Fed policy tracking, and multi-source sentiment aggregation. This is all used for varous strategies and a dynamic playbook for extracting alpha from the markets.
+The dashboard alone has 35+ macro endpoints, earnings scoring engines, real-time breadth analysis, Fed policy tracking, and multi-source sentiment aggregation. This is all used for various strategies and a dynamic playbook for extracting alpha from the markets.
 
 > *"Despite their complexity, quant systems fundamentally aim to identify and exploit market inefficiencies just like traditional methods, but with greater precision and discipline"* — Rishi Narang, *Inside the Black Box*
 
-<!-- 
-SCREENSHOT PLACEHOLDER: Drop a screenshot of your dashboard here
-![QuantFlow Dashboard](./assets/dashboard-preview.png)
--->
+<p align="center">
+  <img src="./assets/quant-dashboard.png" alt="QuantFlow Macro Dashboard" width="700"/>
+  <br/>
+  <em>QuantFlow — Macro Analysis Dashboard</em>
+</p>
+
+#### System Architecture
+
+<p align="center">
+  <img src="./assets/flow-diagram.png" alt="High-Level Data Flow Diagram" width="800"/>
+  <br/>
+  <em>High-level data flow across the distributed node cluster</em>
+</p>
 
 ---
 
@@ -34,8 +43,6 @@ SCREENSHOT PLACEHOLDER: Drop a screenshot of your dashboard here
 Most of my work lives in private repos (4 interconnected services), but I share infrastructure patterns and templates publicly:
 
 - 🏠 **[homelab-infrastructure](https://github.com/gman00910/homelab-infrastructure)** — Proxmox + ZFS + Docker Compose patterns from my build
-- 📺 **[media-server-stack](https://github.com/gman00910/media-server-stack)** — Docker Compose media server with Plex/Sonarr/Radarr/etc.
-<!-- Add more as you create them -->
 
 ---
 
@@ -46,4 +53,4 @@ Most of my work lives in private repos (4 interconnected services), but I share 
 
 ---
 
-<sub>*This profile was last updated February 2026. Infrastructure diagrams reflect current production topology.*</sub>
+<sub>*This profile was last updated March 2026. Infrastructure diagrams reflect current production topology.*</sub>
