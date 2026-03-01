@@ -28,12 +28,10 @@ The dashboard alone has 35+ macro endpoints, earnings scoring engines, real-time
   <em>QuantFlow — Macro Analysis Dashboard</em>
 </p>
 
-#### System Architecture
-
 <p align="center">
-  <img src="./assets/flow-diagram.png" alt="High-Level Data Flow Diagram" width="800"/>
+  <img src="./assets/homepage.png" alt="Homelab Homepage" width="700"/>
   <br/>
-  <em>High-level data flow across the distributed node cluster</em>
+  <em>Homelab service dashboard — media, monitoring, and infrastructure</em>
 </p>
 
 ---
@@ -48,7 +46,7 @@ Most of my work lives in private repos (4 interconnected services), but I share 
 
 ### 📬 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/garrettsmith33) 
+- 💼 [LinkedIn](https://linkedin.com/in/garrett-m-smith-96) 
 - 📧 gm.smith1096@gmail.com 
 
 ---
